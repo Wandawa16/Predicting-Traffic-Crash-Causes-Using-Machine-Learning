@@ -1,4 +1,3 @@
-# Predicting-Traffic-Crash-Causes-Using-Machine-Learning
 #  Traffic Crash Cause Prediction
 
 This project uses machine learning to predict the **primary contributory cause** of traffic crashes. By analyzing real-world crash data, the model helps inform road safety strategies for government agencies and transportation authorities.
